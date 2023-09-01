@@ -1,7 +1,7 @@
 # MY LIST OF ESSENTIAL LINUX SOFTWARES
 This is my list of essential linux softwares to make your linux workstation way better
 
-# GAMMY
+# Gammy
 ![gammy_154280](https://github.com/rlimazzz/essentialslinux/assets/85703424/216ba5dd-40eb-4e1c-be26-7546096c4d8f)
 <br>Gammy is a software that controls the brightness of your screen, many times you need to work at night and your eyes are exhausted, gammy takes care of this and helps you to sleep better, so it's very useful for everyone!!<br>Gammy documentation : https://github.com/fushko/gammy
 
@@ -15,4 +15,7 @@ This is my list of essential linux softwares to make your linux workstation way 
 <br>Synapse is a software that allows you to easily search the softwares installed on your computer, is a very good option for people that does not like the option that comes with the installation of the distro!!
 <br> Synapse documentation (the only thing I found about) : https://launchpad.net/synapse-project 
 
-
+# Live Server
+![83229](https://github.com/rlimazzz/essentialslinux/assets/85703424/46b7f5ce-860c-497b-872f-b99eb545361f)
+<br> Live server is a very useful software for web development, it allows you to create your own local server and on every change you don't need to compile it again, you can install it using npm!!
+<br> Live server documentation : https://github.com/tapio/live-server
