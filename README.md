@@ -10,6 +10,11 @@ This is my list of essential linux softwares to make your linux workstation way 
 <br>NeoVIM is a code editor based on VIM, is very lightweight and very good for old laptops or desktops, NeoVIM is very customizable and uses lua as language, because of it's simplicity NeoVIM lives in the hearth of many programmers(including mine)!!
 <br>NeoVIM documentation : https://github.com/neovim/neovim
 
+# Tmux
+![tmux-logo-medium](https://github.com/rlimazzz/essentialslinux/assets/85703424/3bc5956c-b3f7-41c9-b035-e5270ff83aad)
+<br>Following the terminal topic, tmux is the icing on the neovim, with tmux you can open multiple terminal instances and navigate through them using only your keyboard!!
+<br>Tmux documentation :  https://github.com/tmux/tmux/wiki
+
 # Synapse
 ![synapse-64](https://github.com/rlimazzz/essentialslinux/assets/85703424/7ab13032-3294-49a9-b55b-251a1b1fc4ce)
 <br>Synapse is a software that allows you to easily search the softwares installed on your computer, is a very good option for people that does not like the option that comes with the installation of the distro!!
@@ -22,5 +27,10 @@ This is my list of essential linux softwares to make your linux workstation way 
 
 # Virtualenv
 ![Sem título](https://github.com/rlimazzz/essentialslinux/assets/85703424/f76c0062-e911-4a7f-90c0-c569d40bd0a5)
-<br>This is a very useful tool for python developers, it allows you to create a virtual enviroment and install the things you want to get the work done!
+<br>This is a very useful tool for python developers, it allows you to create a virtual enviroment and install the things you want to get the work done!!
 <br>Virtualenv documentation : https://virtualenv.pypa.io/en/latest/
+
+# Guake Terminal
+![Sem título](https://github.com/rlimazzz/essentialslinux/assets/85703424/643ebe41-cab4-410b-92ae-f6c02e6b31db)
+<br>Guake is a top-down terminal, I use it often because is very exhausting open many terminals to execute simple tasks so I just use Guake!!
+<br>Guake documentation : http://guake-project.org/
