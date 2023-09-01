@@ -6,7 +6,7 @@ This is my list of essential linux softwares to make your linux workstation way 
 <br>Gammy is a software that controls the brightness of your screen, many times you need to work at night and your eyes are exhausted, gammy takes care of this and helps you to sleep better, so it's very useful for everyone!!<br>Gammy documentation : https://github.com/fushko/gammy
 
 # NeoVIM
-<p class = "tam">![neovim-logo-shadow](https://github.com/rlimazzz/essentialslinux/assets/85703424/6568ae42-8923-4be8-87fa-72ecd95be347)</p>
+![neovim-logo-shadow](https://github.com/rlimazzz/essentialslinux/assets/85703424/6568ae42-8923-4be8-87fa-72ecd95be347)
 <br>NeoVIM is a code editor based on VIM, is very lightweight and very good for old laptops or desktops, NeoVIM is very customizable and uses lua as language, because of it's simplicity NeoVIM lives in the hearth of many programmers(including mine)!!
 <br>NeoVIM documentation : https://github.com/neovim/neovim
 
