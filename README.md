@@ -30,6 +30,11 @@ This is my list of essential linux softwares to make your linux workstation way 
 <br>This is a very useful tool for python developers, it allows you to create a virtual enviroment and install the things you want to get the work done!!
 <br>Virtualenv documentation : https://virtualenv.pypa.io/en/latest/
 
+# Klavaro
+![Sem título](https://github.com/rlimazzz/essentialslinux/assets/85703424/e3c9366d-e5da-4891-9e1c-3f8701dcecab)
+<br>The last one, and this is the one that will change your life as developer, klavaro will teach you how to type faster and have less errors when typing!!
+<br> Klavaro documentation : https://klavaro.sourceforge.io/
+
 # Guake Terminal
 ![Sem título](https://github.com/rlimazzz/essentialslinux/assets/85703424/643ebe41-cab4-410b-92ae-f6c02e6b31db)
 <br>Guake is a top-down terminal, I use it often because is very exhausting open many terminals to execute simple tasks so I just use Guake!!
