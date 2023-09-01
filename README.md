@@ -19,3 +19,8 @@ This is my list of essential linux softwares to make your linux workstation way 
 ![83229](https://github.com/rlimazzz/essentialslinux/assets/85703424/46b7f5ce-860c-497b-872f-b99eb545361f)
 <br> Live server is a very useful software for web development, it allows you to create your own local server and on every change you don't need to compile it again, you can install it using npm!!
 <br> Live server documentation : https://github.com/tapio/live-server
+
+# Virtualenv
+![Sem título](https://github.com/rlimazzz/essentialslinux/assets/85703424/f76c0062-e911-4a7f-90c0-c569d40bd0a5)
+<br>This is a very useful tool for python developers, it allows you to create a virtual enviroment and install the things you want to get the work done!
+<br>Virtualenv documentation : https://virtualenv.pypa.io/en/latest/
